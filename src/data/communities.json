@@ -1,0 +1,138 @@
+[
+  {
+    "name": "FOSS United Chennai",
+    "logo": "https://i.ibb.co/F45XJbvR/FOSS-United-Chennai.png",
+    "description": "FOSS United Chennai is a vibrant community dedicated to promoting Free and Open Source Software (FOSS) in the Chennai region. We organize regular meetups, workshops, and hackathons to bring together FOSS enthusiasts, developers, and advocates.",
+    "location": "Chennai",
+    "twitter": "https://twitter.com/fosschennai",
+    "website": "https://fossunited.org/c/chennai",
+    "instagram": "https://www.instagram.com/fossunitedchennai/",
+    "linkedin": "https://www.linkedin.com/company/foss-united-chennai/",
+    "mastodon": "https://twitter.com/fosschennai",
+    "telegram": "https://t.me/fossunitedchennai",
+    "youtube": "https://www.youtube.com/@fossunitedchennai",
+    "github": "https://github.com/FOSSUChennai"
+  },
+  {
+    "name": "Chennai React",
+    "logo": "https://avatars.githubusercontent.com/u/175532518",
+    "description": "Chennai React is a vibrant community of developers passionate about React.js, React Native, Next.js, and modern web and mobile development. We bring developers, industry experts, and tech enthusiasts together to learn, share, and network.",
+    "location": "Chennai",
+    "twitter": "https://twitter.com/chennaiReact",
+    "discord": "https://discord.gg/JbDNt2gQ",
+    "website": "https://chennaireact.in",
+    "instagram": "https://instagram.com/chennaireact",
+    "linkedin": "https://www.linkedin.com/company/chennaireact/",
+    "bluesky": "https://bsky.app/profile/chennaireact.bsky.social",
+    "youtube": "https://www.youtube.com/@ChennaiReactJS",
+    "github": "https://github.com/chennaireact"
+  },
+  {
+    "name": "FOSS United Pondicherry",
+    "logo": "https://i.ibb.co/vm4vm6g/fosspondy.jpg",
+    "description": "FOSS United Pondicherry is a vibrant community dedicated to promoting Free and Open Source Software (FOSS) in the Chennai region. We organize regular meetups, workshops, and hackathons to bring together FOSS enthusiasts, developers, and advocates.",
+    "location": "Pondicherry"
+  },
+  {
+    "name": "JS Lovers Chennai",
+    "logo": "https://i.ibb.co/89fw9p0/1718639979394.jpg",
+    "description": "We are a passionate community of JavaScript enthusiasts who come together to share knowledge, explore the latest trends, and collaborate on exciting projects.Our meetups cover a wide range of topics, from JavaScript fundamentals to advanced frameworks, front-end and back-end development, and everything in between. ",
+    "location": "Chennai",
+    "twitter": "https://twitter.com/jslovers_del",
+    "discord": "https://discord.gg/hTkXBKeWCd",
+    "website": "https://jslovers.com",
+    "linkedin": "https://www.linkedin.com/company/thejslovers/",
+    "youtube": "https://www.youtube.com/jslovers",
+    "github": "https://github.com/JSLOVERS"
+  },
+  {
+    "name": "Namma Flutter",
+    "logo": "https://avatars.githubusercontent.com/u/176333249",
+    "description": "Namma Flutter is a community of Flutter enthusiasts dedicated to learning, sharing, and growing together. We host meetups, workshops, and events to explore the latest in Flutter development, exchange ideas, and foster innovation.",
+    "location": "Chennai",
+    "github": "https://github.com/Namma-Flutter",
+    "linkedin": "https://www.linkedin.com/company/nammaflutter/",
+    "instagram": "https://www.instagram.com/nammaflutter",
+    "twitter": "https://x.com/nammaflutter",
+    "telegram": "https://t.me/nammaflutter",
+    "youtube": "https://www.youtube.com/@nammaflutter"
+  },
+  {
+    "name": "Chennaipy",
+    "logo": "https://res.cloudinary.com/dwir71gi2/image/upload/v1737382622/chennaipy_ovbthm.png",
+    "description": "Chennaipy is a Python user-group, where Pythonistas in and around Chennai come together to share their knowledge and to contribute to the promotion of Python.",
+    "location": "Chennai",
+    "website": "https://chennaipy.org",
+    "github": "https://github.com/chennaipy/",
+    "linkedin": "https://www.linkedin.com/company/chennaipy/",
+    "twitter": "https://x.com/chennaipy"
+  },
+  {
+    "name": "GDG Chennai",
+    "logo": "https://avatars.githubusercontent.com/u/5188301?s=200&v=4",
+    "description": "Google Developers Group Chennai is an initiative to concentrate the efforts of many developers in and around Chennai to learn, share and get productive using the various Google products & Open source technologies.",
+    "location": "Chennai",
+    "website": "https://gdg.community.dev/gdg-chennai/",
+    "github": "https://github.com/gdgchennai",
+    "linkedin": "https://www.linkedin.com/company/gdgchennai/",
+    "instagram": "https://www.instagram.com/gdgchennai/",
+    "twitter": "https://x.com/GDGChennai",
+    "discord": "https://katb.in/gdgchennai-discord",
+    "youtube": "https://www.youtube.com/@GDGCHENNAICOMMUNITY"
+  },
+  {
+    "name": "WTM Chennai",
+    "logo": "https://res.cloudinary.com/dwir71gi2/image/upload/v1725966926/wtmchennai_d4tym8.webp",
+    "description": "Women Techmakers program provides visibility, community, and resources for women in technology. We are building a world where all women can thrive in tech.",
+    "location": "Chennai",
+    "website": "https://gdg.community.dev/gdg-chennai/",
+    "github": "https://github.com/gdgchennai",
+    "linkedin": "https://www.linkedin.com/company/wtm-chennai/",
+    "instagram": "https://www.instagram.com/wtm_chennai",
+    "twitter": "https://x.com/wtmchennai",
+    "discord": "https://katb.in/gdgchennai-discord",
+    "youtube": "https://www.youtube.com/@GDGCHENNAICOMMUNITY"
+  },
+  {
+    "name": "KUG Chennai",
+    "logo": "https://avatars.githubusercontent.com/u/171473236?s=200&v=4",
+    "description": "Kotlin User Group Chennai is a community for Kotlin enthusiasts, developers, and learners passionate about building with Kotlin across Android, Backend, and Multiplatform. We host meetups, workshops, and hackathons to explore the latest in Kotlin development, share insights, and grow together as a community. Whether you're a beginner or an experienced developer, join us to connect, learn, and collaborate on exciting Kotlin projects!",
+    "location": "Chennai",
+    "website": "https://linktr.ee/kugchennai",
+    "github": "https://github.com/kugchennai",
+    "linkedin": "https://www.linkedin.com/groups/14464683/",
+    "instagram": "https://www.instagram.com/kugchennai/",
+    "twitter": "https://x.com/kugchennai",
+    "discord": "https://discord.com/invite/u2GTjKsU9z"
+  },
+  {
+    "name": "FFDG Chennai",
+    "logo": "https://i.ibb.co/gLCj8k8R/ffdg-chennai.jpg",
+    "description": "FFDG Chennai is a vibrant community of developers, engineers, and innovators who come together to collaborate, experiment, and turn bold ideas into reality. We build cool stuff, share knowledge, and push boundaries while fostering a strong culture of innovation and creating open-source projects.We welcome not only tech enthusiasts but also spreadsheet warriors, no-code ninjas, and anyone who thinks differently. With the FFDG low-code platform, you can build projects on your own with ease and creativity.",
+    "location": "Chennai",
+    "website": "https://linktr.ee/ffdgchennai",
+    "instagram": "https://www.instagram.com/ffdgchennai/",
+    "linkedin": "https://www.linkedin.com/company/flutterflow-developers-group-chennai/",
+    "telegram": "https://t.me/FFDGCHENNAI"
+  },
+  {
+    "name": "CTOtalk",
+    "logo": "https://ctotalk.in/hubfs/cto-talk-logo.svg",
+    "description": "CTOTalk is India’s first and only platform where we provide a rare deep-learning opportunity for aspiring tech leaders and have CTOs from well-known brands come in as Guest Speakers. CTOs deep dive into how they built scalability into their businesses.",
+    "location": "Chennai",
+    "website": "https://ctotalk.in/",
+    "instagram": "https://www.instagram.com/ctotalk/",
+    "linkedin": "https://www.linkedin.com/company/ctotalk/posts/",
+    "youtube": "https://www.youtube.com/channel/UC1vs3OTn1DrKX7mCYXrahxw"
+  },
+  {
+    "name": "Build2Learn",
+    "logo": "https://avatars.githubusercontent.com/u/200388134",
+    "description": "Build2Learn, Unlike other tech communities we are a community of people who learn technology by building microproducts",
+    "location": "Chennai",
+    "website": "https://www.build2learn.in/",
+    "instagram": "https://www.instagram.com/build2learn_c",
+    "linkedin": "https://www.linkedin.com/company/build2learn/",
+    "github": "https://github.com/build2learn-in/"
+  }
+]
